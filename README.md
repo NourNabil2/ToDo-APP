@@ -33,7 +33,6 @@
   <img src="https://raw.githubusercontent.com/NourNabil2/ToDo-APP/main/image%20app/3.png" alt="Easy add task">
   <img src="https://raw.githubusercontent.com/NourNabil2/ToDo-APP/main/image%20app/4.png" alt="Easy swipe to delete and archive">
   <img src="https://raw.githubusercontent.com/NourNabil2/ToDo-APP/main/image%20app/5.png" alt="Notifications">
-  <p>Thank You</p>
    
    ## Project Status
    _complete_
